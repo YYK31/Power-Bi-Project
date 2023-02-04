@@ -1,2 +1,2 @@
 # Power-Bi-project
-Power Bi projecton HR Analytics Dashboard
+Power Bi project on HR Analytics Dashboard
